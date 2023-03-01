@@ -1,6 +1,6 @@
-// Copyright 2022 Wook-shin Han
+// Copyright 2023 Jachym Stanek
 
-#ifndef WHY_DBMS_PROJECT1_H_
-#define WHY_DBMS_PROJECT1_H_
+#ifndef PROJECT1_H_
+#define PROJECT1_H_
 
-#endif  // WHY_DBMS_PROJECT1_H_
+#endif  // PROJECT1_H_
